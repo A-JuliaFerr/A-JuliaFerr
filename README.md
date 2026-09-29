@@ -40,9 +40,7 @@
 </div>
 
 ###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
-  <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
-  <img alt="github-snake" src="https://githubusercontent.com">
-</picture>
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/A-JuliaFerr/A-JuliaFerr/stats-output/stats.svg?hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=midnight-purple&locale=pt-br&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/A-JuliaFerr/A-JuliaFerr/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=true" height="150" alt="languages graph"  />
+</div>
